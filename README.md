@@ -21,7 +21,7 @@
 
 ---
 
-The Alice Music Bot offers various commands to enhance your music experience on Telegram:
+The Nikita Music Bot offers various commands to enhance your music experience on Telegram:
 
 | Command                 | Description                                 |
 |-------------------------|---------------------------------------------|
